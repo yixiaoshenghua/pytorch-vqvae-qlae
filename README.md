@@ -20,7 +20,7 @@ python pixelcnn_prior.py --data-folder /tmp/miniimagenet --model models/qlae --o
 3. CIFAR10
 4. Mini-ImageNet
 
-### Training and test curves for QLAE
+### Training and test curves for comparisons of QLAE and VQVAE
 
 ![png](samples/curves_qlae_vqvae.png)
 
