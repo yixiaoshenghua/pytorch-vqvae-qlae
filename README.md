@@ -22,7 +22,7 @@ python pixelcnn_prior.py --data-folder /tmp/miniimagenet --model models/qlae --o
 
 ### Training and test curves for QLAE
 
-![png](curves_qlae_vqvae.png)
+![png](samples/curves_qlae_vqvae.png)
 
 ### Reconstructions from QLAE and VQVAE
 Top 2 rows are Original Images. Bottom 2 rows are Reconstructions.
